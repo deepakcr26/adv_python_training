@@ -1,0 +1,12 @@
+Hello This is a sample file
+Data is as follows:
+Data1: 1234 # Inline comments
+# These are commented text
+Data2: 456
+   # These are 2nd set of commented text
+Following 2 lines are empty lines:
+
+
+There were 2 empty lines above and one below
+
+End of File
